@@ -4,7 +4,7 @@ We do various qunatum measurements with instrument automation.
 
 ## An Example
 
-Here, sequence or other experimental details of actual T1 lifetime measurements are not shown. We will demonstrate the general lifetime measuring procedure, which is necessary founding stone for performing the involved experiments. 
+Here, sequence or other experimental details of actual T1 lifetime measurements are not shown. We will demonstrate the general lifetime measuring procedure, which is the necessary founding stone for performing the involved experiments. 
 
 ### Prerequisites
 
