@@ -1,4 +1,4 @@
-# Qauntum Control Experiments : A Basis 
+# Qauntum Control Experiments : A Basic Understanding
 
 We do various qunatum measurements with instrument automation. 
 
