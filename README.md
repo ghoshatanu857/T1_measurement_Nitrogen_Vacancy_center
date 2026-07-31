@@ -1,10 +1,11 @@
-# Qauntum Control Experiments
+# Qauntum Control Experiments : A Basis 
 
-We do various qunatum measurements with instrument automation.
+We do various qunatum measurements with instrument automation. 
 
 ## An Example
 
-Here, we will demonstrate the general lifetime measuring procedure for systems with lifetimes ranging from approximately 100 ns to longer timescales.
+Here, we will demonstrate the general lifetime measuring procedure for systems with lifetimes ranging from approximately 100 ns to longer timescales. 
+This is not actual T1 lifetime measurement, however, it is the necessary preliminary for performing the involved experiment. 
 
 ### Prerequisites
 
