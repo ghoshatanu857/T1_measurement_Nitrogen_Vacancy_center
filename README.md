@@ -4,8 +4,7 @@ We do various qunatum measurements with instrument automation.
 
 ## An Example
 
-Here, we will demonstrate the general lifetime measuring procedure for systems with lifetimes ranging from approximately 100 ns to longer timescales. 
-This is not actual T1 lifetime measurement, however, it is the necessary preliminary for performing the involved experiment. 
+Here, sequence or other experimental details of actual T1 lifetime measurements are not shown. We will demonstrate the general lifetime measuring procedure, which is necessary founding stone for performing the involved experiments. 
 
 ### Prerequisites
 
